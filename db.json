@@ -1,0 +1,13 @@
+[
+  {"id": 1, "image": "https://reactnative.dev/img/tiny_logo.png", title: "Devin"},
+  {"id": 2, "image": "https://reactnative.dev/img/tiny_logo.png", title: "Dan"},
+  {"id": 3, "image": "https://reactnative.dev/img/tiny_logo.png", title: "Dominic"},
+  {"id": 4, "image": "https://reactnative.dev/img/tiny_logo.png", title: "Jackson"},
+  {"id": 5, "image": "https://reactnative.dev/img/tiny_logo.png", title: "James"},
+  {"id": 6, "image": "https://reactnative.dev/img/tiny_logo.png", title: "Joel"},
+  {"id": 7, "image": "https://reactnative.dev/img/tiny_logo.png", title: "John"},
+  {"id": 8, "image": "https://reactnative.dev/img/tiny_logo.png", title: "Jillian"},
+  {"id": 9, "image": "https://reactnative.dev/img/tiny_logo.png", title: "Jimmy"},
+  {"id": 10, "image": "https://reactnative.dev/img/tiny_logo.png", title: "Julie"}
+ 
+]
